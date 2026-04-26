@@ -79,7 +79,7 @@ export const CATEGORY_GRID = [
   {
     id: 'beverages',
     name: 'مشروبات وسلطات',
-    image: '/bevargeandsaladthumbnails/اللموناضة اللبنانية - 2023 Summer Lemonade Recipe_HD.mp4.png',
+    image: '/bevargeandsaladthumbnails/لموناضة-لبنانية.png',
   },
   {
     id: 'maincourse',
@@ -153,6 +153,7 @@ export const TESTIMONIALS = [
     role: 'مصوّر، الرياض',
   },
 ]
+
 
 
 
