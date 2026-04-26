@@ -8,7 +8,7 @@ export const FEATURED_RECIPES = [
     title: 'جوانح الدجاج المقرمشة مع صلصة بافلو',
     time: '١٠ دقائق',
     tag: 'اختيار الشيف',
-    image: '/thumbnails_new/جوانح الدجاج المقرمشة مع صلصة بافلو الحارة بمكونات بين يديك Spicy Buffalo Wings Recipe_720p.mp4.png',
+    image: '/thumbnails_new/جوانح-الدجاج-بافلو.png',
     videoUrl: 'https://vz-60dece12-bb8.b-cdn.net/eac7eb8e-0b8b-49e5-8752-caae158469ff/play_480p.mp4',
   },
   {
@@ -24,7 +24,7 @@ export const FEATURED_RECIPES = [
     title: 'فيتوتشيني ألفريدو بنكهة مختلفة',
     time: '٨ دقائق',
     tag: 'سريع',
-    image: '/thumbnails_new/فيتوتشيني ألفريدو… بس النكهة مش متل أي وصفة جربتوها قبل! _480p.mp4.png',
+    image: '/thumbnails_new/فيتوتشيني-الفريدو.png',
     videoUrl: 'https://vz-60dece12-bb8.b-cdn.net/68c4d02d-2d45-4f6e-b1e3-1bce22652baa/play_480p.mp4',
   },
   {
@@ -32,7 +32,7 @@ export const FEATURED_RECIPES = [
     title: 'بيتزا بعجينة قطنية وثوم',
     time: '١٤ دقيقة',
     tag: 'ويكند',
-    image: '/thumbnails_new/بيتزا غير شكل! ثوم + عجينة قطنية وصفة ما بتننسى! _480p.mp4.png',
+    image: '/thumbnails_new/بيتزا-عجينة-قطنية.png',
     videoUrl: 'https://vz-60dece12-bb8.b-cdn.net/49e65c2d-252f-4080-ad8e-04d6f91b5c9f/play_480p.mp4',
   },
   {
@@ -40,7 +40,7 @@ export const FEATURED_RECIPES = [
     title: 'كيك بنكهة دافئة والسر بالبهارات',
     time: '١٢ دقيقة',
     tag: 'حلويات',
-    image: '/thumbnails_new/المقلوبة اللي ما بتفشل… إذا عملتها هيك، مستحيل ما تضبط! مقلوبة الارز بالفول_480p.mp4.png',
+    image: '/thumbnails_new/مقلوبة-الارز-بالفول.png',
     videoUrl: 'https://vz-60dece12-bb8.b-cdn.net/b847353d-9f79-4358-962b-cc55852d13b5/play_480p.mp4',
   },
 ]
@@ -49,12 +49,12 @@ export const CATEGORY_GRID = [
   {
     id: 'sandwiches',
     name: 'ساندويشات',
-    image: '/thumbnails_new/ساندويش فيلادلفيا اللحم المفروم بالجبنة والبطاطس المقرمشة_ تاكل اصابعك وراه_720p.mp4.png',
+    image: '/thumbnails_new/ساندويش-فيلادلفيا-اللحم.png',
   },
   {
     id: 'chicken',
     name: 'أطباق الدجاج',
-    image: '/thumbnails_new/جوانح الدجاج المقرمشة مع صلصة بافلو الحارة بمكونات بين يديك Spicy Buffalo Wings Recipe_720p.mp4.png',
+    image: '/thumbnails_new/جوانح-الدجاج-بافلو.png',
   },
   {
     id: 'meat',
@@ -64,7 +64,7 @@ export const CATEGORY_GRID = [
   {
     id: 'pasta',
     name: 'معكرونة وأرز',
-    image: '/thumbnails_new/فيتوتشيني ألفريدو… بس النكهة مش متل أي وصفة جربتوها قبل! _480p.mp4.png',
+    image: '/thumbnails_new/فيتوتشيني-الفريدو.png',
   },
   {
     id: 'desserts',
@@ -94,28 +94,28 @@ export const GALLERY_VIDEOS = [
     title: 'بيتزا بعجينة قطنية وثوم',
     duration: '١٤:٠٠',
     src: 'https://vz-60dece12-bb8.b-cdn.net/49e65c2d-252f-4080-ad8e-04d6f91b5c9f/play_480p.mp4',
-    thumb: '/thumbnails_new/بيتزا غير شكل! ثوم + عجينة قطنية وصفة ما بتننسى! _480p.mp4.png',
+    thumb: '/thumbnails_new/بيتزا-عجينة-قطنية.png',
   },
   {
     id: '2',
     title: 'جوانح الدجاج مع صلصة بافلو',
     duration: '١٠:١٥',
     src: 'https://vz-60dece12-bb8.b-cdn.net/eac7eb8e-0b8b-49e5-8752-caae158469ff/play_480p.mp4',
-    thumb: '/thumbnails_new/جوانح الدجاج المقرمشة مع صلصة بافلو الحارة بمكونات بين يديك Spicy Buffalo Wings Recipe_720p.mp4.png',
+    thumb: '/thumbnails_new/جوانح-الدجاج-بافلو.png',
   },
   {
     id: '3',
     title: 'دجاج البونلس بالبيت',
     duration: '٧:٤٠',
     src: 'https://vz-60dece12-bb8.b-cdn.net/3fd494ec-5836-4433-9071-51e762a83810/play_480p.mp4',
-    thumb: '/thumbnails_new/دجاج البونلس الشهير صار فيكم تعملوه بالبيت Boneless Chicken.mp4.png',
+    thumb: '/thumbnails_new/دجاج-البونلس.png',
   },
   {
     id: '4',
     title: 'ساندويش فيلادلفيا اللحم المفروم',
     duration: '٧:٢٠',
     src: 'https://vz-60dece12-bb8.b-cdn.net/58796cd6-ec0d-4878-a6c0-4d7520e3cd0d/play_480p.mp4',
-    thumb: '/thumbnails_new/ساندويش فيلادلفيا اللحم المفروم بالجبنة والبطاطس المقرمشة_ تاكل اصابعك وراه_720p.mp4.png',
+    thumb: '/thumbnails_new/ساندويش-فيلادلفيا-اللحم.png',
   },
   {
     id: '5',
@@ -129,7 +129,7 @@ export const GALLERY_VIDEOS = [
     title: 'كفتة مع بطاطس وخضار بالفرن',
     duration: '١٢:٠٠',
     src: 'https://vz-60dece12-bb8.b-cdn.net/8ff1267a-6a1b-47c6-891d-452b6014b8db/play_360p.mp4',
-    thumb: '/thumbnails_new/طريقتي رح تخليكم تعملوا اطيب والذ كفتة مع بطاطس وخضار بالفرن  خلطة الكفتة اللبنانية مثل الجزارين.mp4.png',
+    thumb: '/thumbnails_new/كفتة-لبنانية-بالفرن.png',
   },
 ]
 
@@ -153,5 +153,6 @@ export const TESTIMONIALS = [
     role: 'مصوّر، الرياض',
   },
 ]
+
 
 
