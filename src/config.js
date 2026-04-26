@@ -74,7 +74,7 @@ export const CATEGORY_GRID = [
   {
     id: 'quickbites',
     name: 'لقيمات سريعة',
-    image: '/quick-bitesthumbnails/حمص بالطحينة اللبنانية - Creamy hummus recipe(360P).mp4.png',
+    image: '/quick-bitesthumbnails/حمص-بالطحينة-اللبنانية.png',
   },
   {
     id: 'beverages',
@@ -153,6 +153,7 @@ export const TESTIMONIALS = [
     role: 'مصوّر، الرياض',
   },
 ]
+
 
 
 
