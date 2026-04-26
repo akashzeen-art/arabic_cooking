@@ -84,7 +84,7 @@ export const CATEGORY_GRID = [
   {
     id: 'maincourse',
     name: 'الطبق الرئيسي',
-    image: '/maincoursethumbnails/شاورما دجاج - Juciest Chicken Shawarma Sandwich Recipe_HD(2).mp4.png',
+    image: '/maincoursethumbnails/شاورما-دجاج.png',
   },
 ]
 
@@ -153,6 +153,7 @@ export const TESTIMONIALS = [
     role: 'مصوّر، الرياض',
   },
 ]
+
 
 
 
