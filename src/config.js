@@ -74,12 +74,12 @@ export const CATEGORY_GRID = [
   {
     id: 'quickbites',
     name: 'لقيمات سريعة',
-    image: '/quick-bitesthumbnails/حمص-بالطحينة-اللبنانية.png',
+    image: '/quick-bitesthumbnails/hummus.png',
   },
   {
     id: 'beverages',
     name: 'مشروبات وسلطات',
-    image: '/bevargeandsaladthumbnails/لموناضة-لبنانية.png',
+    image: '/bevargeandsaladthumbnails/lemonade.png',
   },
   {
     id: 'maincourse',
@@ -153,6 +153,7 @@ export const TESTIMONIALS = [
     role: 'مصوّر، الرياض',
   },
 ]
+
 
 
 
