@@ -8,7 +8,7 @@ export const FEATURED_RECIPES = [
     title: 'جوانح الدجاج المقرمشة مع صلصة بافلو',
     time: '١٠ دقائق',
     tag: 'اختيار الشيف',
-    image: '/thumbs/thumb-ch-1.png',
+    image: '/thumbnails_new/جوانح الدجاج المقرمشة مع صلصة بافلو الحارة بمكونات بين يديك Spicy Buffalo Wings Recipe_720p.mp4.png',
     videoUrl: 'https://vz-60dece12-bb8.b-cdn.net/eac7eb8e-0b8b-49e5-8752-caae158469ff/play_480p.mp4',
   },
   {
@@ -16,7 +16,7 @@ export const FEATURED_RECIPES = [
     title: 'كفتة ناعمة بصوص الطحينة',
     time: '٩ دقائق',
     tag: 'الأكثر طلباً',
-    image: '/thumbs/thumb-mt-1.png',
+    image: '/thumbnails_new/كفتة ناعمة بصوص الطحينة… بس السر مش بالكفتة! 😯🔥 _480p.mp4.png',
     videoUrl: 'https://vz-60dece12-bb8.b-cdn.net/a1256ca7-ff28-411b-aaf0-47ec07b19e52/play_480p.mp4',
   },
   {
@@ -24,7 +24,7 @@ export const FEATURED_RECIPES = [
     title: 'فيتوتشيني ألفريدو بنكهة مختلفة',
     time: '٨ دقائق',
     tag: 'سريع',
-    image: '/thumbs/thumb-pr-1.png',
+    image: '/thumbnails_new/فيتوتشيني ألفريدو… بس النكهة مش متل أي وصفة جربتوها قبل! _480p.mp4.png',
     videoUrl: 'https://vz-60dece12-bb8.b-cdn.net/68c4d02d-2d45-4f6e-b1e3-1bce22652baa/play_480p.mp4',
   },
   {
@@ -32,7 +32,7 @@ export const FEATURED_RECIPES = [
     title: 'بيتزا بعجينة قطنية وثوم',
     time: '١٤ دقيقة',
     tag: 'ويكند',
-    image: '/thumbs/thumb-ds-1.png',
+    image: '/thumbnails_new/بيتزا غير شكل! ثوم + عجينة قطنية وصفة ما بتننسى! _480p.mp4.png',
     videoUrl: 'https://vz-60dece12-bb8.b-cdn.net/49e65c2d-252f-4080-ad8e-04d6f91b5c9f/play_480p.mp4',
   },
   {
@@ -40,16 +40,8 @@ export const FEATURED_RECIPES = [
     title: 'كيك بنكهة دافئة والسر بالبهارات',
     time: '١٢ دقيقة',
     tag: 'حلويات',
-    image: '/thumbs/thumb-pr-4.png',
+    image: '/thumbnails_new/المقلوبة اللي ما بتفشل… إذا عملتها هيك، مستحيل ما تضبط! مقلوبة الارز بالفول_480p.mp4.png',
     videoUrl: 'https://vz-60dece12-bb8.b-cdn.net/b847353d-9f79-4358-962b-cc55852d13b5/play_480p.mp4',
-  },
-  {
-    id: 'r6',
-    title: 'دجاج البونلس المقرمش بالبيت',
-    time: '١١ دقيقة',
-    tag: 'شائع',
-    image: '/thumbs/thumb-ch-3.png',
-    videoUrl: 'https://vz-60dece12-bb8.b-cdn.net/3fd494ec-5836-4433-9071-51e762a83810/play_480p.mp4',
   },
 ]
 
@@ -57,27 +49,42 @@ export const CATEGORY_GRID = [
   {
     id: 'sandwiches',
     name: 'ساندويشات',
-    image: '/thumbs/thumb-sw-1.png',
+    image: '/thumbnails_new/ساندويش فيلادلفيا اللحم المفروم بالجبنة والبطاطس المقرمشة_ تاكل اصابعك وراه_720p.mp4.png',
   },
   {
     id: 'chicken',
     name: 'أطباق الدجاج',
-    image: '/thumbs/thumb-ch-1.png',
+    image: '/thumbnails_new/جوانح الدجاج المقرمشة مع صلصة بافلو الحارة بمكونات بين يديك Spicy Buffalo Wings Recipe_720p.mp4.png',
   },
   {
     id: 'meat',
     name: 'لحم وكفتة',
-    image: '/thumbs/thumb-mt-1.png',
+    image: '/thumbnails_new/كفتة ناعمة بصوص الطحينة… بس السر مش بالكفتة! 😯🔥 _480p.mp4.png',
   },
   {
     id: 'pasta',
     name: 'معكرونة وأرز',
-    image: '/thumbs/thumb-pr-1.png',
+    image: '/thumbnails_new/فيتوتشيني ألفريدو… بس النكهة مش متل أي وصفة جربتوها قبل! _480p.mp4.png',
   },
   {
     id: 'desserts',
     name: 'حلويات ومخبوزات',
-    image: '/thumbs/thumb-ds-1.png',
+    image: '/desertthumnails/بقلاوة بالكاسة؟! الطريقة اللي رح تغيّر رأيك 😱_480p.mp4.png',
+  },
+  {
+    id: 'quickbites',
+    name: 'لقيمات سريعة',
+    image: '/quick-bitesthumbnails/حمص بالطحينة اللبنانية - Creamy hummus recipe(360P).mp4.png',
+  },
+  {
+    id: 'beverages',
+    name: 'مشروبات وسلطات',
+    image: '/bevargeandsaladthumbnails/اللموناضة اللبنانية - 2023 Summer Lemonade Recipe_HD.mp4.png',
+  },
+  {
+    id: 'maincourse',
+    name: 'الطبق الرئيسي',
+    image: '/maincoursethumbnails/شاورما دجاج - Juciest Chicken Shawarma Sandwich Recipe_HD(2).mp4.png',
   },
 ]
 
@@ -87,42 +94,42 @@ export const GALLERY_VIDEOS = [
     title: 'بيتزا بعجينة قطنية وثوم',
     duration: '١٤:٠٠',
     src: 'https://vz-60dece12-bb8.b-cdn.net/49e65c2d-252f-4080-ad8e-04d6f91b5c9f/play_480p.mp4',
-    thumb: '/thumbs/thumb-ds-1.png',
+    thumb: '/thumbnails_new/بيتزا غير شكل! ثوم + عجينة قطنية وصفة ما بتننسى! _480p.mp4.png',
   },
   {
     id: '2',
     title: 'جوانح الدجاج مع صلصة بافلو',
     duration: '١٠:١٥',
     src: 'https://vz-60dece12-bb8.b-cdn.net/eac7eb8e-0b8b-49e5-8752-caae158469ff/play_480p.mp4',
-    thumb: '/thumbs/thumb-ch-1.png',
+    thumb: '/thumbnails_new/جوانح الدجاج المقرمشة مع صلصة بافلو الحارة بمكونات بين يديك Spicy Buffalo Wings Recipe_720p.mp4.png',
   },
   {
     id: '3',
     title: 'دجاج البونلس بالبيت',
     duration: '٧:٤٠',
     src: 'https://vz-60dece12-bb8.b-cdn.net/3fd494ec-5836-4433-9071-51e762a83810/play_480p.mp4',
-    thumb: '/thumbs/thumb-ch-3.png',
+    thumb: '/thumbnails_new/دجاج البونلس الشهير صار فيكم تعملوه بالبيت Boneless Chicken.mp4.png',
   },
   {
     id: '4',
     title: 'ساندويش فيلادلفيا اللحم المفروم',
     duration: '٧:٢٠',
     src: 'https://vz-60dece12-bb8.b-cdn.net/58796cd6-ec0d-4878-a6c0-4d7520e3cd0d/play_480p.mp4',
-    thumb: '/thumbs/thumb-sw-1.png',
+    thumb: '/thumbnails_new/ساندويش فيلادلفيا اللحم المفروم بالجبنة والبطاطس المقرمشة_ تاكل اصابعك وراه_720p.mp4.png',
   },
   {
     id: '5',
     title: 'اللحم المفروم طبق خمس نجوم',
     duration: '٨:٣٠',
     src: 'https://vz-60dece12-bb8.b-cdn.net/73604e7b-6075-47b9-b3c3-38e5e98c10c3/play_480p.mp4',
-    thumb: '/thumbs/thumb-mt-3.png',
+    thumb: '/thumbnails_new/شوفوا كيف قلبت اللحم المفروم لطبق خمس نجوم!  🌟_480p.mp4.png',
   },
   {
     id: '6',
     title: 'كفتة مع بطاطس وخضار بالفرن',
     duration: '١٢:٠٠',
     src: 'https://vz-60dece12-bb8.b-cdn.net/8ff1267a-6a1b-47c6-891d-452b6014b8db/play_360p.mp4',
-    thumb: '/thumbs/thumb-mt-4.png',
+    thumb: '/thumbnails_new/طريقتي رح تخليكم تعملوا اطيب والذ كفتة مع بطاطس وخضار بالفرن  خلطة الكفتة اللبنانية مثل الجزارين.mp4.png',
   },
 ]
 
