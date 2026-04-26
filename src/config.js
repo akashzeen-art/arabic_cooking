@@ -69,7 +69,7 @@ export const CATEGORY_GRID = [
   {
     id: 'desserts',
     name: 'حلويات ومخبوزات',
-    image: '/desertthumnails/بقلاوة بالكاسة؟! الطريقة اللي رح تغيّر رأيك 😱_480p.mp4.png',
+    image: '/desertthumnails/بقلاوة-بالكاسة؟-الطريقة-اللي-رح-تغيّر-رأيك-480p.png',
   },
   {
     id: 'quickbites',
@@ -153,6 +153,7 @@ export const TESTIMONIALS = [
     role: 'مصوّر، الرياض',
   },
 ]
+
 
 
 
