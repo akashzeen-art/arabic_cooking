@@ -1,4 +1,4 @@
-/** Main background + preloader video (single source, no duplicate loads). */
+﻿/** Main background + preloader video (single source, no duplicate loads). */
 export const VIDEO_URL =
   'https://vz-60dece12-bb8.b-cdn.net/7d7efad5-e59f-4e42-b53e-14190f9dd352/play_360p.mp4'
 
@@ -16,7 +16,7 @@ export const FEATURED_RECIPES = [
     title: 'كفتة ناعمة بصوص الطحينة',
     time: '٩ دقائق',
     tag: 'الأكثر طلباً',
-    image: '/thumbnails_new/كفتة ناعمة بصوص الطحينة… بس السر مش بالكفتة! 😯🔥 _480p.mp4.png',
+    image: '/thumbnails_new/كفتة-ناعمة-بصوص-الطحينة.png',
     videoUrl: 'https://vz-60dece12-bb8.b-cdn.net/a1256ca7-ff28-411b-aaf0-47ec07b19e52/play_480p.mp4',
   },
   {
@@ -59,7 +59,7 @@ export const CATEGORY_GRID = [
   {
     id: 'meat',
     name: 'لحم وكفتة',
-    image: '/thumbnails_new/كفتة ناعمة بصوص الطحينة… بس السر مش بالكفتة! 😯🔥 _480p.mp4.png',
+    image: '/thumbnails_new/كفتة-ناعمة-بصوص-الطحينة.png',
   },
   {
     id: 'pasta',
@@ -122,7 +122,7 @@ export const GALLERY_VIDEOS = [
     title: 'اللحم المفروم طبق خمس نجوم',
     duration: '٨:٣٠',
     src: 'https://vz-60dece12-bb8.b-cdn.net/73604e7b-6075-47b9-b3c3-38e5e98c10c3/play_480p.mp4',
-    thumb: '/thumbnails_new/شوفوا كيف قلبت اللحم المفروم لطبق خمس نجوم!  🌟_480p.mp4.png',
+    thumb: '/thumbnails_new/اللحم-المفروم-خمس-نجوم.png',
   },
   {
     id: '6',
@@ -153,3 +153,5 @@ export const TESTIMONIALS = [
     role: 'مصوّر، الرياض',
   },
 ]
+
+
