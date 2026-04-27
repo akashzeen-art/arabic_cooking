@@ -12,14 +12,6 @@ export const FEATURED_RECIPES = [
     videoUrl: 'https://vz-60dece12-bb8.b-cdn.net/eac7eb8e-0b8b-49e5-8752-caae158469ff/play_480p.mp4',
   },
   {
-    id: 'r2',
-    title: 'كفتة ناعمة بصوص الطحينة',
-    time: '٩ دقائق',
-    tag: 'الأكثر طلباً',
-    image: '/thumbnails_new/كفتة-ناعمة-بصوص-الطحينة.png',
-    videoUrl: 'https://vz-60dece12-bb8.b-cdn.net/a1256ca7-ff28-411b-aaf0-47ec07b19e52/play_480p.mp4',
-  },
-  {
     id: 'r3',
     title: 'فيتوتشيني ألفريدو بنكهة مختلفة',
     time: '٨ دقائق',
